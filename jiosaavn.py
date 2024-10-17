@@ -60,7 +60,7 @@ def get_album(album_id, lyrics):
         print(e)
         return None
 
-
+# .
 def get_album_id(input_url):
     res = requests.get(input_url)
     try:
