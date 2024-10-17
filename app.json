@@ -1,7 +1,7 @@
 {
     "name": "JioSaavnAPI",
-    "description": "Unofficial API of JioSaavn.",
-    "author": "Sumanjay",
+    "description": "API of JioSaavn.",
+    "author": "Kavyanshi",
     "keywords": [
         "flask",
         "python",
@@ -9,5 +9,5 @@
         "jiosaavn",
         "music"
     ],
-    "repository": "https://github.com/cyberboysumanjay/JioSaavnAPI"
+    "repository": "https://github.com/kavyanshisrivastava2/Flask-jiosaavn-app.git"
 }
